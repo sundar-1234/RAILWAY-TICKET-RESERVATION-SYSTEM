@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Ticket_Booking",
+      "request": "launch",
+      "mainClass": "Ticket_Booking"
+    }
+  ]
+}
